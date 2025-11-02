@@ -94,4 +94,4 @@ Saya Dicka Fachrunaldo Kartamiharja dengan NIM 2407846 mengerjakan Tugas Praktik
       - Pemain bisa restart atau kembali ke menu.
 
 ## Dokumentasi
-https://github.com/user-attachments/assets/a05fbd55-f433-4891-b50b-c4754cd213d3
+https://github.com/user-attachments/assets/641c10cc-41ee-4e2f-923a-47c00fb2ad24
