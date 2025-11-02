@@ -3,7 +3,7 @@
 ## JANJI
 Saya Dicka Fachrunaldo Kartamiharja dengan NIM 2407846 mengerjakan Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-#DAFTAR CLASS
+# DAFTAR CLASS
 - App – Inisialisasi utama aplikasi
 - MainMenu – Tampilan menu awal
 - Logic – Inti logika permainan
@@ -12,6 +12,8 @@ Saya Dicka Fachrunaldo Kartamiharja dengan NIM 2407846 mengerjakan Tugas Praktik
 - Pipe – Representasi pipa (rintangan)
 
 # Desain Program
+Program FlappyBird adalah sebuah game sederhana yang dibuat menggunakan Java Swing. Berikut adalah desain dan komponen utama dari program:
+
 ## Komponen Utama
 - JFrame (Frame Utama)
   - App: Merupakan entry point dari program (class dengan main()).
